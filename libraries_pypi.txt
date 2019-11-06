@@ -1,0 +1,11 @@
+pypi - pandas
+pypi - scikit-learn
+maven - com.microsoft.azure:azure-eventhubs-spark_2.11:2.3.13
+pypi - keras
+pypi - matplotlib
+maven - com.microsoft.azure:azure-sqldb-spark:1.0.2
+maven - org.apache.bahir:spark-sql-streaming-mqtt_2.11:2.2.0
+maven - junit:junit:4.12
+maven - org.postgresql:postgresql:42.2.8.jre7
+maven - org.scalatest:scalatest_2.13:3.2.0-M1
+pypi - plotly
